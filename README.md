@@ -3,6 +3,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hepengfei5709&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+![Visitor Count](https://profile-counter.glitch.me/hepengfei5709/count.svg)
+
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
 </a>
