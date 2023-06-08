@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently studying on **PCL**
 - 🌱 I’m currently learning **CV,DL,CUDA,HSI,Golang,Java,DevOps**
-- 👯 Currently working in **ShenZhen, China**
+- ⚡ Currently working in **GuangZhou,Xi'an,ShenZhen, China**
 - 🤔 I love **Reading, photography**
 - 💬 Ask me about Deep Learning, Python and my projects
 - 📫 How to reach me: **1697598345@qq.com**
