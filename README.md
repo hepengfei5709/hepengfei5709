@@ -5,9 +5,9 @@
 
 ### I'm hepengfei🚀  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently studying on **PCL**
+- 🔭 I’m currently studying on **XDU,PCL**
 - 🌱 I’m currently learning **CV,DL,CUDA,HSI,Golang,Java,DevOps**
-- ⚡ Currently working in **GuangZhou,Xi'an,ShenZhen, China**
+- ⚡ Currently working in **GuangZhou,Xi'an, China**
 - 🤔 I love **Reading, photography**
 - 💬 Ask me about Deep Learning, Python and my projects
 - 📫 How to reach me: **1697598345@qq.com**
