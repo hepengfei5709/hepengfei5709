@@ -136,8 +136,7 @@
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=hepengfei5709&&style=flat-square" align="center" />
 </div>  
- ![Visitor Count](https://profile-counter.glitch.me/hepengfei5709/count.svg)
-
+<a href="https://info.flagcounter.com/0tuL"><img src="https://s01.flagcounter.com/map/0tuL/size_m/txt_000000/border_CCCCCC/pageviews_1/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>
 <!--  <div align="center">
 My  <img src="https://profile-counter.glitch.me/hepengfei5709/count.svg" align="center" /> visitor
 </div>  -->
