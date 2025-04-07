@@ -5,14 +5,15 @@
 
 ### I'm hepengfei🚀  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
-- 🔭 I’m currently studying on **XDU,PCL**
-- 🌱 I’m currently learning **CV,DL,CUDA,HSI,Golang,Java,DevOps**
-- ⚡ Currently working in **GuangZhou,Xi'an, China**
-- 🤔 I love **Reading, photography**
-- 💬 Ask me about Deep Learning, Python and my projects
-- 📫 How to reach me: **1697598345@qq.com**
+- 🔭 Main research areas: **computer vision, visual representation, semantic communication**
+- 🌱 Shenzhen
+<!-- - 🌱 I’m currently learning **CV,DL,CUDA,HSI,Golang,Java,DevOps**  -->
+<!-- - ⚡ Currently working in **GuangZhou,Xi'an, China**  -->
+<!-- - 🤔 I love **Reading, photography**  -->
+<!-- - 💬 Ask me about Deep Learning, Python and my projects -->
+- 📫 How to reach me: **hepengfei00@gmail.com**
 <!-- - 😄 You may like [My Website](https://www.christmas.wang/),[Blog](https://www.zhihu.com/people/wang-fei-51-86) -->
-- ⚡ Fun fact: **Movie**
+
 
 
 <br/>  
