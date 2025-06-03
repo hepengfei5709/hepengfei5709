@@ -110,8 +110,17 @@
 <img src=https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
 </a>  
 <!-- <a href="https://www.kaggle.com/hepengfei01" target="_blank">
-<img src=https://img.shields.io/badge/google-email-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+<img src=https://img.shields.io/badge/google%20email-20B2AA?style=for-the-badge?&style=for-the-badge&logo=email&logoColor=white alt=kaggle style="margin-bottom: 5px;" />
+  
 </a>   -->
+<a href="mailto:hepengfei00@gmail.com" target="_blank">
+  <img
+    src="https://img.shields.io/badge/Gmail-hepengfei01@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Gmail"
+    style="margin-bottom: 5px;"
+  />
+</a>
+
 </div>  
   
 
